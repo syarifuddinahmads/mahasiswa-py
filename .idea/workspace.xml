@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03e63dac-06bf-4a08-b956-10cb0682d290" name="Default Changelist" comment="" />
+    <list default="true" id="03e63dac-06bf-4a08-b956-10cb0682d290" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/templates/addmahasiswa.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -27,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/templates/editmahasiswa.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="10" column="19" lean-forward="true" selection-end-line="85" selection-end-column="14" />
+              <caret line="10" column="19" selection-end-line="85" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -36,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/templates/listmahasiswa.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="825">
-              <caret line="55" column="113" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="55" selection-end-column="113" />
+              <caret line="55" column="113" selection-start-line="54" selection-start-column="36" selection-end-line="55" selection-end-column="113" />
             </state>
           </provider>
         </entry>
@@ -44,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controller/mahasiswa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="19" column="25" lean-forward="true" selection-end-line="86" selection-end-column="24" />
+            <state relative-caret-position="285">
+              <caret line="19" column="25" selection-end-line="86" selection-end-column="24" />
               <folding>
                 <element signature="e#0#69#0" expanded="true" />
               </folding>
@@ -79,6 +81,9 @@
       <find>{{ mahasiswa.tanggal_lahir.strftime('%mm/%dd/%yyyy') }}</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -99,6 +104,7 @@
     <option name="width" value="1366" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -195,12 +201,12 @@
       <workItem from="1546206438708" duration="9496000" />
       <workItem from="1546245964545" duration="1612000" />
       <workItem from="1546265560187" duration="3777000" />
-      <workItem from="1546314791473" duration="8322000" />
+      <workItem from="1546314791473" duration="8931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26790000" />
+    <option name="totallyTimeSpent" value="27399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="741" extended-state="6" />
@@ -219,7 +225,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25686592" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25728154" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -276,28 +282,28 @@
     <entry file="file://$PROJECT_DIR$/templates/addmahasiswa.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/editmahasiswa.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="10" column="19" lean-forward="true" selection-end-line="85" selection-end-column="14" />
+          <caret line="10" column="19" selection-end-line="85" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/listmahasiswa.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
-          <caret line="55" column="113" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="55" selection-end-column="113" />
+          <caret line="55" column="113" selection-start-line="54" selection-start-column="36" selection-end-line="55" selection-end-column="113" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controller/mahasiswa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="19" column="25" lean-forward="true" selection-end-line="86" selection-end-column="24" />
+        <state relative-caret-position="285">
+          <caret line="19" column="25" selection-end-line="86" selection-end-column="24" />
           <folding>
             <element signature="e#0#69#0" expanded="true" />
           </folding>
